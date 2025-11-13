@@ -1,0 +1,3 @@
+- JWST pipeline products (_rate.fits or _cal.fits)
+- Minimum of 2 dither positions recommended
+- Valid WCS information in headers

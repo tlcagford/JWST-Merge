@@ -1,0 +1,5 @@
+docs/
+├── MIRI_PROCESSING.md      # Renamed main doc
+├── NIRCAM_PROCESSING.md    # Parallel documentation
+├── API_REFERENCE.md        # Detailed function docs
+└── TROUBLESHOOTING.md     # Common solutions

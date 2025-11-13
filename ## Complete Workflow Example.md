@@ -1,0 +1,3 @@
+- Memory usage: ~2GB per 100 files
+- Processing time: 5-10 minutes per filter
+- Recommended: Process filters separately for large datasets

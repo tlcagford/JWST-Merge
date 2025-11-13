@@ -1,0 +1,4 @@
+- `*_miri_merged.fits`: Final science mosaic
+- `*_background.fits`: Background model
+- `*_rms.fits`: Noise map
+- `*_segmentation.fits`: Source catalog
