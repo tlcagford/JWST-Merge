@@ -1,0 +1,7 @@
+@article{bushouse2022jwst,
+  title={JWST Calibration Pipeline},
+  author={Bushouse, H. and et al.},
+  journal={JWST Documentation},
+  year={2022},
+  url={https://jwst-pipeline.readthedocs.io/}
+}

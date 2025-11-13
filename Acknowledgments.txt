@@ -1,0 +1,20 @@
+
+## **Updated README.md Section**
+
+```markdown
+## License
+
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use JWST-Merge in your research, please cite the software:
+
+```bibtex
+@software{ford_jwst_merge_2024,
+  author = {Ford, Tony E.},
+  title = {JWST-Merge: MIRI and NIRCam Image Mosaicking Pipeline},
+  year = {2024},
+  publisher = {GitHub},
+  url = {https://github.com/tlcagford/JWST-Merge}
+}
