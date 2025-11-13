@@ -1,0 +1,16 @@
+# 1. Clone and explore structure
+# (Run the first code block above)
+
+# 2. Quick GitHub exploration  
+quick_github_explore()
+
+# 3. Examine key files
+examine_key_files()
+
+# 4. Discover Python modules
+if os.path.exists('JWST-Merge'):
+    discover_python_modules()
+
+# 5. Quick analysis
+if os.path.exists('JWST-Merge'):
+    quick_analysis()
